@@ -1,9 +1,5 @@
 package flower.store;
 
-import org.example.Flower;
-import org.example.FlowerBucket;
-import org.example.FlowerPack;
-import org.example.Rose;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.Assertions;

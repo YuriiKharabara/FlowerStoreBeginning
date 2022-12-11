@@ -1,4 +1,4 @@
-package org.example;
+package flower.store;
 
 public class FlowerBucket {
     private int price;
