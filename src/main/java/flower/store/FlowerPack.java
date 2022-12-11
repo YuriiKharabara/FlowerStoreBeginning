@@ -1,4 +1,4 @@
-package org.example;
+package flower.store;
 
 public class FlowerPack {
     private int price = 0;
